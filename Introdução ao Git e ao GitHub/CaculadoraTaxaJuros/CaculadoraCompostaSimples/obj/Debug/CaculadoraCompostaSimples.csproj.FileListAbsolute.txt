@@ -1,0 +1,10 @@
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.csproj.AssemblyReference.cache
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.Form1.resources
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.Properties.Resources.resources
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.csproj.GenerateResource.cache
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.csproj.CoreCompileInputs.cache
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\bin\Debug\CaculadoraCompostaSimples.exe.config
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\bin\Debug\CaculadoraCompostaSimples.exe
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\bin\Debug\CaculadoraCompostaSimples.pdb
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.exe
+C:\Users\wagner\source\repos\CaculadoraCompostaSimples\CaculadoraCompostaSimples\obj\Debug\CaculadoraCompostaSimples.pdb
